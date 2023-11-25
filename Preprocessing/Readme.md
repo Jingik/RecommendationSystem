@@ -8,7 +8,7 @@
 - 📆11/25 : genre imputation 문제 발생 -> 차후 처리 필요, year컬럼과 이를 활용한 era 컬럼 생성, tag 데이터를 movies에 합친 후 전처리
   - 전처리 전, 후 컬럼 변화 : + 'year', 'tag', 'era'
       - era 관련 정보 : 
-      Silent Era (Late 19th century to late 1920s): This era marked the early days of cinema when films were made without synchronized sound. Silent movies relied on visual storytelling, often accompanied by live music. Notable directors like Charlie Chaplin and Buster Keaton emerged during this time.
+Silent Era (Late 19th century to late 1920s): This era marked the early days of cinema when films were made without synchronized sound. Silent movies relied on visual storytelling, often accompanied by live music. Notable directors like Charlie Chaplin and Buster Keaton emerged during this time.
 
 Golden Age of Hollywood (1920s to 1960s): Hollywood's studio system was at its peak during this period. It saw the rise of glamorous studios like MGM, Paramount, and Warner Bros. Movies were characterized by their star-driven plots, genres like musicals, film noir, and the establishment of the Hays Code, a set of censorship guidelines.
 
