@@ -18,3 +18,11 @@ sampledata 0_6999 => 7000개짜리 쓰면 됩니다요!
 우선 크롤링은 완료했음 결측치 처리해서 토요일 안에 올릴게요
 <br>
 ⇨ movie_crawling_sample_withNaN
+
+✔️ **12/9 12:00 ver**
+<br>
+크롤링 전체 완료!
+- 특이 사항
+    - language : 'None' → 대사 없는 영화
+<br>
+⇨ movie_crawling_result
